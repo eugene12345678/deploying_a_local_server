@@ -1,4 +1,4 @@
-const url = 'http://localhost:3000/staff';
+const url = 'https://staff-backend-sigma.vercel.app/staff';
 
 // UTILITY FUNCTIONS
 
